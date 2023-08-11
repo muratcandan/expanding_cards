@@ -6,6 +6,8 @@
   padding: 0;
 }
 
+
+
 body {
   font-family: 'Muli', sans-serif;
   display: flex;
@@ -13,6 +15,23 @@ body {
   justify-content: center;
   height: 100vh;
   overflow: hidden;
+}
+
+.izmir {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    height: 30px;
+    background: rgb(0, 0, 255);
+}
+
+.izmir h4 {
+    color: #fff;
+    vertical-align: top;
+    text-align: center;
+    font-size: 24px;
+    letter-spacing: 1px;
 }
 
 .container {
@@ -26,7 +45,7 @@ body {
   background-repeat: no-repeat;
   height: 90vh;
   border-radius: 50px;
-  color: #fff;
+  color: #ffffff;
   position: relative;
   cursor: pointer;
   flex: 0.5;
@@ -40,7 +59,7 @@ body {
   font-size: 24px;
   position: absolute;
   bottom: 20px;
-  left: 20px;
+  right: 20px;
   margin: 0;
   opacity: 0;
 }
