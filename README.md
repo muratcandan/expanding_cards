@@ -3,7 +3,7 @@
 ## İçerik
 
 - Bu uygulamada HTML, CSS ve JavaScript kullanarak İzmir ilini tanıtan bir açılır kart uygulaması yapılmıştır.
-- Küçük olan fotoğraflar üzerlerine tıklanınca animasyon ile akıcı şekilde açılabilir hale getirilmiştir.
+- Küçük olan fotoğraflar üzerlerlerine tıklandığında açılır hale gelir.
 
 ## Canlı Demo
 
